@@ -1,12 +1,7 @@
-# urbanice
 
-# Live Result
+#Look at my functions so you don’t have to waste your time.
 
-https://youtu.be/3yB9HV0-i9E
-
-# Look at my functions so you don’t have to waste your time.
-
-# First Quiz
+#First Quiz
 
 ```
 void _resultFirstQuiz() {
@@ -27,7 +22,7 @@ void _resultFirstQuiz() {
 
 ```
 
-# Second Quiz
+#Second Quiz
 
 ```
 void _resultSecondQuiz() {
@@ -39,34 +34,39 @@ void _resultSecondQuiz() {
 
 ```
 
-# Third Quiz
+#Third Quiz
 
 ```
- void _resultThirdQuiz() {
-    // I Think it's a trick question
-    // Because you define 1 = 5 -> so i'll imply that 5 = 1
-
+void _resultSecondQuiz() {
+    // Try to prove mathematical logic ?
     setState(() {
-      _result3 = 1;
+      _result2 = 46;
     });
   }
 
 ```
 
-Why do you need React-Native ?
+#Live Result
+https://youtu.be/3yB9HV0-i9E
+
+#Why do you need React-Native ?
+
+## Table of Contents
 
 Cons
-	- Difficult to modify thread
-	- Problem will arise when deal with huge navigation
 
-Why do I use flutter ?
+- Difficult to modify thread
+- Problem will arise when deal with huge navigation
+
+#Why do I use flutter ?
 
 Pros
-	- Copy concept from REACT !!! View my code and you will get what I mean.
-	- We can still use REDUX !!! It’s Great right ?
-	- Friendly with Firebase (Of cause it’s google product lol )
-	- Real Native even with navigation.
-	- Meterial Design by default
+
+- Copy concept from REACT !!! View my code and you will get what I mean.
+- We can still use REDUX !!! It’s Great right ?
+- Friendly with Firebase (Of cause it’s google product lol )
+- Real native ,even with navigation.
+- Meterial Design by default
 
 
 
