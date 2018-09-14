@@ -42,10 +42,12 @@ void _resultSecondQuiz() {
 # Third Quiz
 
 ```
-void _resultSecondQuiz() {
-    // Try to prove mathematical logic ?
+ void _resultThirdQuiz() {
+    // I Think it's a trick question
+    // Because you define 1 = 5 -> so i'll imply that 5 = 1
+
     setState(() {
-      _result2 = 46;
+      _result3 = 1;
     });
   }
 
