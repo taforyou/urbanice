@@ -1,7 +1,7 @@
 
-#Look at my functions so you don’t have to waste your time.
+# Look at my functions so you don’t have to waste your time.
 
-#First Quiz
+# First Quiz
 
 ```
 void _resultFirstQuiz() {
@@ -22,7 +22,7 @@ void _resultFirstQuiz() {
 
 ```
 
-#Second Quiz
+# Second Quiz
 
 ```
 void _resultSecondQuiz() {
@@ -34,7 +34,7 @@ void _resultSecondQuiz() {
 
 ```
 
-#Third Quiz
+# Third Quiz
 
 ```
 void _resultSecondQuiz() {
@@ -46,19 +46,17 @@ void _resultSecondQuiz() {
 
 ```
 
-#Live Result
+# Live Result
 https://youtu.be/3yB9HV0-i9E
 
-#Why do you need React-Native ?
-
-## Table of Contents
+# Why do you need React-Native ?
 
 Cons
 
 - Difficult to modify thread
 - Problem will arise when deal with huge navigation
 
-#Why do I use flutter ?
+# Why do I use flutter ?
 
 Pros
 
